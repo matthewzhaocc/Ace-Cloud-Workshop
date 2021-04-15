@@ -1,0 +1,16 @@
+{
+  "name": "Ace-Cloud-Workshop",
+  "version": "1.0.0",
+  "description": "Ace Coding Cloud Workshop Demo",
+  "main": "index.js",
+  "repository": "https://github.com/matthewzhaocc/Ace-Cloud-Workshop",
+  "author": "Matthew matthew@mail.matthew-cloud.com",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
